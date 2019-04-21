@@ -6,9 +6,10 @@ Chuanjie Tang; Tong Wu
 # Problems:
 Based on the Football data for England (and Wales) incl. English Premier League from 2010 to 2018, we want to predict the results in the next years.
 
-# What libraries/tools you will need:
-dataset source:https://github.com/footballcsv/eng-england
+# Data Collection details:
+https://github.com/footballcsv/eng-england/tree/master/2010s
 
+# What libraries/tools you will need:
 We will build a simple Poisson model to predict the results of English Premier League matches. 
 Maybe more tools will be used when we are going to expand that project.
 
