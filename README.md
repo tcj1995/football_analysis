@@ -42,3 +42,6 @@ feature engineering: several days
 statistical summary: one week
 
 visualization: three weeks
+
+# Final Project:
+[Final project](https://mybinder.org/v2/gh/tcj1995/dst_project_2/master?filepath=football_analysis.ipynb)
